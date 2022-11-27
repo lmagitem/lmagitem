@@ -1,4 +1,4 @@
-[![LinkedIn][https://img.shields.io/badge/LinkedIn-Luc_Toupense-blue?logo=linkedin&style=flat-square][www.linkedin.com/in/luc-toupense/]]
+[![LinkedIn][https://img.shields.io/badge/LinkedIn-Luc_Toupense-blue?logo=linkedin&style=flat-square]][www.linkedin.com/in/luc-toupense/]
 
 ![](https://raw.githubusercontent.com/lmagitem/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lmagitem/github-stats/master/generated/overview.svg#gh-light-mode-only)
