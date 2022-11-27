@@ -6,7 +6,7 @@
 </div>
 <div>
   
-Hey everyone! Luc here 👋
+### Hey everyone! Luc here 👋
 - I'm currently learning [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/)
 - I'm working on:
   - [planet-generator](https://github.com/lmagitem/planet-generator): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that generates galaxies, sectors, solar systems, planets with maps and their inhabitants alongside tons of narrative elements and ideas
@@ -17,6 +17,7 @@ Hey everyone! Luc here 👋
   - [Golden Cross](https://github.com/lmagitem/goldencross): an [![Angular](https://shields.io/badge/-Angular-red?logo=angular&style=plastic)](https://angular.io/) app allowing to plan entries on the stock market by looking at golden crosses on moving averages
   
 </div>
+</br>
 <div align="center">
   
   ![](https://raw.githubusercontent.com/lmagitem/github-stats/master/generated/overview.svg#gh-dark-mode-only)
