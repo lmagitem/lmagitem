@@ -9,11 +9,11 @@
 ### Hey everyone! Luc here 👋
 - I'm currently learning [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/)
 - I'm working on:
-  - [planet-generator](https://github.com/lmagitem/planet-generator): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that aims at generating galaxies, sectors, solar systems, planets with maps and their inhabitants alongside tons of narrative elements and ideas
-  - [galactic-explorer](https://github.com/lmagitem/galactic-explorer): a [![Yew](https://shields.io/badge/-Yew-lightgrey?logo=rust&style=plastic)](https://yew.rs/) app to play with [planet-generator](https://github.com/lmagitem/planet-generator)
+  - [Planet Generator](https://github.com/lmagitem/planet-generator): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that aims at generating galaxies, sectors, solar systems, planets with maps and their inhabitants alongside tons of narrative elements and ideas
+  - [Galactic Explorer](https://github.com/lmagitem/galactic-explorer): a [![Yew](https://shields.io/badge/-Yew-lightgrey?logo=rust&style=plastic)](https://yew.rs/) app to play with [Planet Generator](https://github.com/lmagitem/planet-generator)
 
 - I maintain:
-  - [seeded-dice-roller](https://github.com/lmagitem/seeded-dice-roller): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that rolls dice and generates pseudo-random result in a deterministic way
+  - [Seeded Dice Roller](https://github.com/lmagitem/seeded-dice-roller): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that rolls dice and generates pseudo-random results in a deterministic way
   - [Golden Cross](https://github.com/lmagitem/goldencross): an [![Angular](https://shields.io/badge/-Angular-red?logo=angular&style=plastic)](https://angular.io/) app allowing to plan entries on the stock market by looking at golden crosses on moving averages
   
 </div>
