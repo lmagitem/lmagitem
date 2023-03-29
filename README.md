@@ -10,7 +10,7 @@
 - I'm currently learning [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/)
 - I'm working on:
   - [Planet Generator](https://github.com/lmagitem/planet-generator): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that aims at generating galaxies, sectors, solar systems, planets with maps and their inhabitants alongside tons of narrative elements and ideas
-  - [Galactic Scanner](https://github.com/lmagitem/galactic-scanner): a [![Actix](https://shields.io/badge/-actix-blueviolet?logo=rust&style=plastic)](https://actix.rs/) server that allows [Galactic Explorer](https://github.com/lmagitem/galactic-explorer) to play with [Planet Generator](https://github.com/lmagitem/planet-generator)
+  - [Galactic Scanner](https://github.com/lmagitem/galactic-scanner): an [![Actix](https://shields.io/badge/-Actix-blueviolet?logo=rust&style=plastic)](https://actix.rs/) server that allows [Galactic Explorer](https://github.com/lmagitem/galactic-explorer) to play with [Planet Generator](https://github.com/lmagitem/planet-generator)
   - [Galactic Explorer](https://github.com/lmagitem/galactic-explorer): a [![React](https://shields.io/badge/-React-blue?logo=react&style=plastic)](https://github.com/facebook/react/) app to play with [Planet Generator](https://github.com/lmagitem/planet-generator)
 
 - I maintain:
