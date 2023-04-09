@@ -9,14 +9,14 @@
 ### Hey everyone! Luc here 👋
 - I'm currently learning [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/)
 - I'm working on:
-  - [Planet Generator](https://github.com/lmagitem/planet-generator): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that aims at generating galaxies, sectors, solar systems, planets with maps and their inhabitants alongside tons of narrative elements and ideas
+  - [Galactic Explorer](https://github.com/lmagitem/galactic-explorer): a [![React](https://shields.io/badge/-React-blue?logo=react&style=plastic)](https://github.com/facebook/react/) app to play with [Planet Generator](https://github.com/lmagitem/planet-generator) ([Available here](https://galactic-explorer.n42c.dev/))
   - [Galactic Scanner](https://github.com/lmagitem/galactic-scanner): an [![Actix](https://shields.io/badge/-Actix-blueviolet?logo=rust&style=plastic)](https://actix.rs/) server that allows [Galactic Explorer](https://github.com/lmagitem/galactic-explorer) to play with [Planet Generator](https://github.com/lmagitem/planet-generator)
-  - [Galactic Explorer](https://github.com/lmagitem/galactic-explorer): a [![React](https://shields.io/badge/-React-blue?logo=react&style=plastic)](https://github.com/facebook/react/) app to play with [Planet Generator](https://github.com/lmagitem/planet-generator)
-  - [N42C landing page](https://github.com/lmagitem/n42c-landing-page): an [![Actix](https://shields.io/badge/-Actix-blueviolet?logo=rust&style=plastic)](https://actix.rs/) server that serves a [![vanilla Javascript](https://shields.io/badge/-Javascript-yellow?logo=javascript&style=plastic)]() website with basic routing, lazy loading, internationalization and analytics to replace my old Wordpress blog and serve as a simple portfolio
+  - [Planet Generator](https://github.com/lmagitem/planet-generator): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that aims at generating galaxies, sectors, solar systems, planets with maps and their inhabitants alongside tons of narrative elements and ideas ([Available here](https://crates.io/crates/planet_generator))
 
 - I maintain:
-  - [Seeded Dice Roller](https://github.com/lmagitem/seeded-dice-roller): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that rolls dice and generates pseudo-random results in a deterministic way
-  - [Golden Cross](https://github.com/lmagitem/goldencross): an [![Angular](https://shields.io/badge/-Angular-red?logo=angular&style=plastic)](https://angular.io/) app allowing to plan entries on the stock market by looking at golden crosses on moving averages
+  - [Golden Cross](https://github.com/lmagitem/goldencross): an [![Angular](https://shields.io/badge/-Angular-red?logo=angular&style=plastic)](https://angular.io/) app allowing to plan entries on the stock market by looking at golden crosses on moving averages ([Available here](https://golden-cross.n42c.dev/))
+  - [N42C landing page](https://github.com/lmagitem/n42c-landing-page): an [![Actix](https://shields.io/badge/-Actix-blueviolet?logo=rust&style=plastic)](https://actix.rs/) server that serves a [![vanilla Javascript](https://shields.io/badge/-Javascript-yellow?logo=javascript&style=plastic)]() website with basic routing, lazy loading, internationalization and analytics to replace my old Wordpress blog and serve as a simple portfolio ([Available here](https://n42c.com))
+  - [Seeded Dice Roller](https://github.com/lmagitem/seeded-dice-roller): a [![Rust](https://shields.io/badge/-Rust-orange?logo=rust&style=plastic)](https://www.rust-lang.org/) library that rolls dice and generates pseudo-random results in a deterministic way ([Available here](https://crates.io/crates/seeded_dice_roller))
   
 </div>
 </br>
